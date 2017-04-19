@@ -2,7 +2,7 @@
 
 Travel through a maze and try to collect all the logs.
 
-![Maze](./Screenshots/sc3.png)
+![Maze](./Screenshots/sc3.jpeg)
 
 Time taken: 3 weeks
 
